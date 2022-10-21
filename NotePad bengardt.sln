@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad bengardt", "NotePad bengardt\NotePad bengardt.csproj", "{D125ACAA-C1BC-4826-8958-EC98CE17F91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D125ACAA-C1BC-4826-8958-EC98CE17F91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D125ACAA-C1BC-4826-8958-EC98CE17F91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D125ACAA-C1BC-4826-8958-EC98CE17F91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D125ACAA-C1BC-4826-8958-EC98CE17F91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF9B8267-1596-427C-8079-51623B5E4254}
+	EndGlobalSection
+EndGlobal
